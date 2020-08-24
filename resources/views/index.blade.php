@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>CV | Fitria Anjani Rahayu</title>
+    <title>CV | Ahmad Zakaria</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -56,16 +56,16 @@
 	      	<div class="overlay"></div>
 	        <div class="container">
 	          <div class="row d-md-flex no-gutters slider-text align-items-end justify-content-end" data-scrollax-parent="true">
-	          	<div class="one-third order-md-last img" style="background-image:url(/assets/images/foto_home.jpg);">
+	          	<div class="one-third order-md-last img" style="background-image:url(/assets/images/foto_home.png);">
 	          		<div class="overlay"></div>
 	          	</div>
 		          <div class="one-forth d-flex  align-items-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
 		        
 		          	<div class="text">
 		          		<span class="subheading">Hello</span>
-			            <h1 class="mb-4 mt-3">I'm <span>Fitria Anjani Rahayu</span></h1>
-			            <h2 class="mb-4 text-white"><strong> SAP And Office Administrator</strong></h2>
-			            <p><a href="#" class="btn btn-warning btn-lg"><i class="fa fa-file-pdf-o"> Download CV</a></i></p>
+			            <h1 class="mb-4 mt-3">I'm <span>Ahmad Zakaria</span></h1>
+			            <h2 class="mb-4 text-white"><strong> IT Support And Web Developer</strong></h2>
+			            <p><a href="/assets/file/cv_zakaria.pdf" class="btn btn-warning btn-lg" target="_blank"><i class="fa fa-file-pdf-o"> Download CV</a></i></p>
 						</div>
 					</div>
 				  </div>
@@ -82,7 +82,7 @@
     			<div class="col-md-6 col-lg-5 d-flex">
     				<div class="img-about img d-flex align-items-stretch">
     					<div class="overlay"></div>
-	    				<div class="img d-flex align-self-stretch align-items-center" style="background-image:url(/assets/images/about.jpg);">
+	    				<div class="img d-flex align-self-stretch align-items-center" style="background-image:url(/assets/images/about.png);">
 	    				</div>
     				</div>
     			</div>
@@ -94,15 +94,15 @@
 					<thead>
 					  <tr class="table-warning">
 						<th class="text-center">Nama :</th>
-						<th class="text-center">Fitria Anjani Rahayu</th>
+						<th class="text-center">Ahmad Zakaria</th>
 					  </tr>
 					  <tr class="table-info">
 						  <th class="text-center">Tempat, Tanggal Lahir :</th>
-						  <th class="text-center">Bekasi, 27 Juli 1997</th>
+						  <th class="text-center">Bekasi, 04 Januari 1997</th>
 					  </tr>
 					  <tr class="table-warning">
 						  <th class="text-center">Alamat :</th>
-						  <th class="text-center">Perumahan Puri Cendana Blok M3 No. 5 RT 003 RW 008 Tambun Selatan, Bekasi</th>
+						  <th class="text-center">Jl. Lebak, Ciketing MUSTIKAJAYA BEKASI</th>
 					  </tr>
 					  <tr class="table-info">
 						  <th class="text-center">Pendidikan Terakhir :</th>
@@ -110,11 +110,14 @@
 					  </tr>
 					  <tr class="table-warning">
 						  <th class="text-center">E-mail :</th>
-						  <th class="text-center">fitria_anjanii@gmail.com</th>
+						  <th class="text-center">ahmadzakaria1497@gmail.com</th>
 					  </tr>
 					  <tr class="table-info">
-						  <th class="text-center">No.Telp :</th>
-						  <th class="text-center">08514468892</th>
+						  <th rowspan="2" class="text-center"><h4>No.Telp :</th></h4>
+						  <th class="text-center">0895423040641(Whatsapp)</th>
+					  </tr>
+					  <tr class="table-info">
+						  <th class="text-center">085892354202</th>
 					  </tr>
 					</thead>
 				  </table>
@@ -146,7 +149,7 @@
 					<div class="timeline-panel">
 						<div class="timeline-heading"><br><br>
 							<h4 class="text-white">2003-2009</h4>
-							<h4 class="subheading text-white">SDN 05 TAMBUN SELATAN </h4>
+							<h4 class="subheading text-white">MI AL-HUDA BEKASI </h4>
 						</div>
 					</div>
 				</li>
@@ -155,7 +158,7 @@
 					<div class="timeline-panel">
 						<div class="timeline-heading"><br><br>
 							<h4 class="text-white">2009-2012</h4>
-							<h4 class="subheading text-white">SMPN 02 TAMBUN SELATAN</h4>
+							<h4 class="subheading text-white">SMPN 04 TAMBUN SELATAN</h4>
 						</div>
 					</div>
 				</li>
@@ -164,7 +167,7 @@
 					<div class="timeline-panel">
 						<div class="timeline-heading"><br><br>
 							<h4 class="text-white" >2012-2015</h4>
-							<h4 class="subheading text-white">SMK BINA KARYA MANDIRI 2</h4>
+							<h4 class="subheading text-white">SMK BINA PRESTASI BEKASI</h4>
 							<h4 class="subheading text-white"><i class="fa fa-television"> Teknik Komputer Dan Jaringan</h4></i>
 						</div>
 					</div>
@@ -175,7 +178,7 @@
 						<div class="timeline-heading"><br><br>
 							<h4 class="text-white">2016-2020</h4>
 							<h4 class="subheading text-white">STMIK BANI SALEH BEKASI</h4>
-							<h4 class="subheading text-white"><i class="fa fa-desktop"> Teknik Informatika</i></h4>
+							<h4 class="subheading text-white"><i class="fa fa-television"> Teknik Informatika</i></h4>
 						</div>
 					</div>
 				</li>
@@ -209,7 +212,7 @@
 							<h4 class="text-white">2015-2016</h4>
 							<h3 class="subheading text-white">PT. TELKOM AKSES CIBITUNG </h3>
 							<h4 class="subheading text-white"><strong>Teknisi PSB & Troubleshoot</strong></h4>
-							<h5 class="subheading text-muted">Pemasangan Baru Jaringan Wirelless Dan Troubleshooting </h5>
+							<h5 class="subheading text-warning">Pemasangan Baru Jaringan Wirelless Dan Troubleshooting </h5>
 						</div>
 					</div>
 				</li>
@@ -220,7 +223,7 @@
 							<h4 class="text-white">2017-2019</h4>
 							<h3 class="subheading text-white">SMK KARYA GUNA JAYA BEKASI </h3>
 							<h4 class="subheading text-white"><strong>Staff Guru & Staff IT</strong></h4>
-							<h5 class="subheading text-muted">Instalasi LAB UNBK,USBN,UJIKOM. Reparasi Hardware, Memanage Jaringan Di Sekolah Serta Bertanggung Jawab Atas Keluar Masuknya Kebutuhan Lab.Komputer  </h5>
+							<h5 class="subheading text-warning">Instalasi LAB UNBK,USBN,UJIKOM. Reparasi Hardware, Memanage Jaringan Di Sekolah Serta Bertanggung Jawab Atas Keluar Masuknya Kebutuhan Lab.Komputer  </h5>
 						</div>
 					</div>
 				</li>
@@ -231,7 +234,7 @@
 							<h4 class="text-white">2019-2020</h4>
 							<h3 class="subheading text-white">PT. DIGIFOR INTERTECH ASIA </h3>
 							<h4 class="subheading text-white"><strong>IT Support & Front-End Developer</strong></h4>
-							<h5 class="subheading text-muted">Support Hardware Dan Software, Seperti Instalasi Software, Troubleshoot Jaringan, Pemeliharaan Hardware Dan Melakukan Design Web</h5>
+							<h5 class="subheading text-warning">Support Hardware Dan Software, Seperti Instalasi Software, Troubleshoot Jaringan, Pemeliharaan Hardware Dan Melakukan Design Web</h5>
 						</div>
 					</div>
 				</div>
@@ -254,8 +257,8 @@
 						<h3>PHP</h3>
 						<div class="progress">
 							 <div class="progress-bar color-1" role="progressbar" aria-valuenow="75"
-							  aria-valuemin="0" aria-valuemax="100" style="width:75%">
-							<span>75%</span>
+							  aria-valuemin="0" aria-valuemax="100" style="width:85%">
+							<span>85%</span>
 							  </div>
 						</div>
 					</div>
@@ -264,9 +267,9 @@
 					<div class="progress-wrap ftco-animate">
 						<h3>jQuery</h3>
 						<div class="progress">
-							 <div class="progress-bar color-2" role="progressbar" aria-valuenow="60"
-							  aria-valuemin="0" aria-valuemax="100" style="width:60%">
-							<span>60%</span>
+							 <div class="progress-bar color-2" role="progressbar" aria-valuenow="65"
+							  aria-valuemin="0" aria-valuemax="100" style="width:65%">
+							<span>65%</span>
 							  </div>
 						</div>
 					</div>
@@ -297,9 +300,9 @@
 					<div class="progress-wrap ftco-animate">
 						<h3>Java</h3>
 						<div class="progress">
-							 <div class="progress-bar color-6" role="progressbar" aria-valuenow="80"
-							  aria-valuemin="0" aria-valuemax="100" style="width:80%">
-							<span>80%</span>
+							 <div class="progress-bar color-6" role="progressbar" aria-valuenow="60"
+							  aria-valuemin="0" aria-valuemax="100" style="width:60%">
+							<span>60%</span>
 							  </div>
 						</div>
 					</div>
@@ -308,9 +311,9 @@
 					<div class="progress-wrap ftco-animate">
 						<h3>Linux</h3>
 						<div class="progress">
-							 <div class="progress-bar color-5" role="progressbar" aria-valuenow="70"
-							  aria-valuemin="0" aria-valuemax="100" style="width:70%">
-							<span>70%</span>
+							 <div class="progress-bar color-5" role="progressbar" aria-valuenow="75"
+							  aria-valuemin="0" aria-valuemax="100" style="width:75%">
+							<span>75%</span>
 							  </div>
 						</div>
 					</div>
@@ -330,9 +333,9 @@
 					<div class="progress-wrap ftco-animate">
 						<h3>Hardware</h3>
 						<div class="progress">
-							 <div class="progress-bar color-6" role="progressbar" aria-valuenow="80"
-							  aria-valuemin="0" aria-valuemax="100" style="width:80%">
-							<span>80%</span>
+							 <div class="progress-bar color-6" role="progressbar" aria-valuenow="90"
+							  aria-valuemin="0" aria-valuemax="100" style="width:90%">
+							<span>90%</span>
 							  </div>
 						</div>
 					</div>
@@ -348,58 +351,39 @@
 				</div>
 				</div>
 					<div class="row">
-						<div class="col-md-8">
-							<div class="project img ftco-animate img-2 d-flex justify-content-center align-items-center" style="background-image: url(/assets/images/project-1.jpg);">
-								<div class="overlay"></div>
-								<div class="text text-center p-4">
-									<h3><a href="instagram.com">Branding &amp; Illustration Design</a></h3>
-									<span>Web Design</span>
-								</div>
-							</div>
-						</div>
 						<div class="col-md-4">
-							<div class="row">
-								<div class="col-md-12">
-									<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(/assets/images/project-2.jpg);">
-										<div class="overlay"></div>
-										<div class="text text-center p-4">
-											<h3><a href="#">Branding &amp; Illustration Design</a></h3>
-											<span>Web Design</span>
+							<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(/assets/images/ig.png);">
+								<div class="overlay"></div>
+									<div class="text text-center p-4">
+										<h3><a href="https://www.instagram.com/ahmd.zkriaa">Lihat Profile</a></h3>
+										   <span>@ahmd.zkriaa</span>
 										</div>
 									</div>
 								</div>
-								<div class="col-md-12">
-									<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(/assets/images/project-3.jpg);">
-										<div class="overlay"></div>
-										<div class="text text-center p-4">
-											<h3><a href="#">Branding &amp; Illustration Design</a></h3>
-											<span>Web Design</span>
-										</div>
+							<div class="col-md-4">
+								<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(/assets/images/github.png);">
+									<div class="overlay"></div>
+									<div class="text text-center p-4">
+										<h3><a href="https://github.com/zakaria-970401">Lihat Repository</a></h3>
+										<span>zakaria-970401</span>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-4">
+								<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(/assets/images/gmail.png);">
+									<div class="overlay"></div>
+									<div class="text text-center p-10">
+										<h3><a href="https://mail.google.com/mail/u/0/#inbox?compose=ahmadzakaria1497@gmail.com">Send E-mail</a></h3>
+										<span>ahmadzakaria1497@gmail.com</span>
 									</div>
 								</div>
 							</div>
 						</div>
-						<div class="col-md-4">
-							<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(/assets/images/project-4.jpg);">
-								<div class="overlay"></div>
-								<div class="text text-center p-4">
-									<h3><a href="#">Branding &amp; Illustration Design</a></h3>
-									<span>Web Design</span>
-								</div>
-							</div>
-						  </div>
-						  <div class="col-md-8">
-							<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(/assets/images/project-5.jpg);">
-								<div class="overlay"></div>
-								<div class="text text-center p-4">
-									<h3><a href="#">Branding &amp; Illustration Design</a></h3>
-									<span>Web Design</span>
-								</div>
-							</div>
-						  </div>
 					</div>
 				</div>
-			</section>
+			</div>
+		</div>
+	</section>
 
 	  
     <section class="ftco-section contact-section ftco-no-pb bg-dark" id="kontak-section">
@@ -411,7 +395,7 @@
         </div>
     			<div class="row">
 					<div class="col-md-4 text-center d-flex ftco-animate">
-						<div class="services-1  bg-warning">
+						<div class="services-1  bg-light">
 							<span class="icon">
 								<i class="fa fa-phone"></i>
 							</span>
@@ -423,7 +407,7 @@
 						</div>
 					</div>
 					<div class="col-md-4 text-center d-flex ftco-animate">
-						<div class="services-1  bg-warning">
+						<div class="services-1  bg-light">
 							<span class="icon">
 								<i class="fa fa-envelope-o"></i>
 							</span>
@@ -436,7 +420,7 @@
 						</div>
 					</div>
 					<div class="col-md-4 text-center d-flex ftco-animate">
-						<div class="services-1  bg-warning">
+						<div class="services-1  bg-light">
 							<span class="icon">
 								<i class="fa fa-whatsapp"></i>
 							</span>
